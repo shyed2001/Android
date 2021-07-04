@@ -93,7 +93,7 @@ But could not run emulator on android studio.
 
 > ### Or can use an actual android device
 
-## Fixed Error Emulator was killed android studio | The Emulator process for AVD was killed Fixed Error Emulator was killed android studio | The Emulator process for AVD was killed
+## Fixed Error Emulator was killed android studio | The Emulator process for AVD was killed 
  https://www.youtube.com/watch?v=AOK9ZxiBOGg
 
 
@@ -102,17 +102,22 @@ But could not run emulator on android studio.
 - solution-: AVD Manager - Edit - Graphics : From Automatic(by default) change to Software.
 
 
+__Android Emulator The emulator process for AVD was killed. Windows Intel solution-: 
+https://stackoverflow.com/questions/63317727/android-emulator-the-emulator-process-for-avd-was-killed-windows-intel__
+
+__ERROR Android emulator gets killed solution-:
+ https://stackoverflow.com/questions/36841461/error-android-emulator-gets-killed__
+
 # How to export an Android Studio project and move it to another computer
 
 We explain how to export an Android Studio project and move it to another computer. Instructions for beginners or anybody who started with Android Studio.
 
 ## Transfer android project from one computer to another (Android Studio)
-
-https://www.youtube.com/watch?v=lG8CV3nRQh8
+> https://www.youtube.com/watch?v=lG8CV3nRQh8
 
 ## How To Import Project Into Android Studio
 
- https://www.youtube.com/watch?v=FeKfIWJyQMs
+>  https://www.youtube.com/watch?v=FeKfIWJyQMs
 
 
 # How to export an Android Studio project?
@@ -244,6 +249,15 @@ Have fun, coding software solutions with Code.
 
 সমাধান-: এভিডি ম্যানেজার - সম্পাদনা - গ্রাফিকস: স্বয়ংক্রিয় থেকে (ডিফল্টরূপে) সফ্টওয়্যারটিতে পরিবর্তন।
 
+
+__Android এমুলেটর AVD এর জন্য এমুলেটর প্রক্রিয়াটি মারা গিয়েছিল। উইন্ডোজ ইন্টেল সমাধান-:
+https://stackoverflow.com/questions/63317727/android-emulator-the-emulator-process-for-avd-was-killed-windows-intel__
+
+
+-----
+
+__ERROR অ্যান্ড্রয়েড এমুলেটর নিহত সমাধান-:
+  https://stackoverflow.com/questions/36841461/error-android-emulator-gets-killed__
 
 # কীভাবে একটি অ্যান্ড্রয়েড স্টুডিও প্রকল্প রফতানি করতে এবং এটি অন্য কম্পিউটারে সরানো যায়
 
